@@ -1,0 +1,92 @@
+# Core Web Framework
+Flask==3.1.1
+flask-cors==6.0.1
+Werkzeug==3.1.3
+
+# Twilio para WhatsApp
+twilio==9.6.2
+
+# AI/ML Framework e OpenAI
+agno==1.5.1
+openai==1.77.0
+whisper==1.1.10
+
+# Database
+psycopg2==2.9.10
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.41
+
+# AWS/Cloud Storage
+boto3==1.38.35
+botocore==1.38.35
+s3transfer==0.13.0
+
+# HTTP e Requests
+requests==2.32.4
+urllib3==2.3.0
+httpx==0.28.1
+httpcore==1.0.9
+aiohttp==3.11.18
+aiohttp-retry==2.9.1
+
+# Data Processing
+pandas==2.2.3
+numpy==2.2.4
+beautifulsoup4==4.13.4
+pypdf==5.5.0
+
+# Utilities
+python-dotenv==1.1.0
+pydantic==2.11.4
+pydantic-settings==2.9.1
+pydantic_core==2.33.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+# Rich formatting e CLI
+rich==14.0.0
+typer==0.15.4
+click==8.1.8
+
+# Web Scraping e Selenium
+selenium==4.30.0
+bs4==0.0.2
+
+# Testing
+pytest==8.3.5
+pytest-mock==3.14.0
+
+# Async e WebSockets
+anyio==4.9.0
+websocket-client==1.8.0
+websockets==14.2
+trio==0.29.0
+trio-websocket==0.12.2
+
+# Supabase (se usado)
+supabase==2.15.1
+gotrue==2.12.0
+postgrest==1.0.1
+storage3==0.11.3
+supafunc==0.9.4
+realtime==2.4.3
+
+# Vector Database
+qdrant-client==1.14.2
+
+# Git Integration
+GitPython==3.1.44
+gitdb==4.0.12
+
+# Security e Auth
+PyJWT==2.10.1
+certifi==2025.1.31
+
+# System utilities
+colorama==0.4.6
+portalocker==2.10.1
+python-multipart==0.0.20
+
+# Development
+tqdm==4.67.1
+packaging==25.0
